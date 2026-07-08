@@ -1,0 +1,32 @@
+name = input("Enter student name: ")
+
+maths = int(input("Enter Maths marks: "))
+science = int(input("Enter Science marks: "))
+robotics = int(input("Enter Robotics marks: "))
+
+total = maths + science + robotics
+average = total / 3
+
+highest = max(maths, science, robotics)
+lowest = min(maths, science, robotics)
+
+print("Student name:", name)
+print("Total:", total)
+print("Average:", average)
+print("Highest:", highest)
+print("Lowest:", lowest)
+
+if maths > science:
+    print("Maths marks are better than Science")
+else:
+    print("Science marks are better than Maths")
+
+if robotics == maths:
+    print("Robotics and Maths marks are the same")
+else:
+    print("Robotics and Maths marks are not the same")
+
+if maths >= 40 and science >= 40 and robotics >= 40:
+    print("The student is pass")
+else:
+    print("The student is not pass")
