@@ -41,5 +41,5 @@ operators - Built-in functions (`max()`, `min()`)
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** sheresth nayak
+**GitHub:** nyk070
