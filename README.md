@@ -42,4 +42,4 @@ operators - Built-in functions (`max()`, `min()`)
 ## Author
 
 **Name:** sheresth nayak
-**GitHub:** nyk070
+**GitHub:** https://github.com/nyk070
